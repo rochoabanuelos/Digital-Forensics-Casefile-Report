@@ -1,8 +1,8 @@
 # Digital-Forensics-Casefile-Report
 
-## Case Report 
-## National Gallery DC
-## Tracy’s iPhone [2012-07-15-National-Gallery]
+Case Report 
+National Gallery DC
+Tracy’s iPhone [2012-07-15-National-Gallery]
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-## Table of Contents
+#### Table of Contents
 ________________________________________
 Case Report
 National Gallery DC
@@ -37,7 +37,7 @@ Conclusion
 Appendix A: Correspondence Evidence
 Appendix B: WiFi and GPS Location Information
 
-## Executive Summary
+**Executive Summary**
 On January 21, 2016, Digitech Inc. was called in to assist the National Gallery, Washington D.C. (NGDC) case involving the conspiracy associated with the theft of valuable stamps and defacing of museums are at the NGDC. 
 
 ●	Tracy is a suspect in the aforementioned conspiracy. 
@@ -49,7 +49,7 @@ As described fully in the report, Digitech, Inc. made the following findings.
 The accused, Tracy (Coral), seemed to be in a tough financial situation with her daughter’s school tuition and in the process of a divorce. She involves her brother to help in the theft of stamps at the National Gallery. Tracy meets with Carry, an acquaintance who offers to compensate financially to sneak in a tablet for a flash mob. Her brother Pat (Perry) introduces her to ‘King’ who can assist in the theft and provides him the tools he needs. After examining the evidence gathered, it seems that Tracy (Coral) not only helped with Carry’s objective of museum defacement, but also participated in the stamp theft.
 
 
-Equipment and Tools
+**Equipment and Tools**
 ●	Kali Linux (Virtual Machine)
 ●	Nano text editor within Kali Linux terminal
 ●	SQLite DB Browser
@@ -58,7 +58,7 @@ Equipment and Tools
 
 
 
-Details of Tracy’s iPhone
+**Details of Tracy’s iPhone**
 
 Case Name: 2012-07-15-National-Gallery		Case #: 1EZ215-P
 ________________________________________
